@@ -1,0 +1,90 @@
+h1 {
+    color : red;
+}
+
+.modulo {
+    border-radius : 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    display: flex; 
+    border-color: red;
+    width: 99%;
+    height: 99%;
+}
+
+.modulo#primera-parte {
+    padding:0;
+   
+ 
+}
+.boton-edit{
+    display: flex;
+
+}
+.boton-segundo{
+
+}
+    
+#fondo-perfil {
+   height: 250px; 
+ display: flex;
+
+}
+
+#foto-info {
+  
+    display: flex;
+    
+}
+
+#fondo-perfil img {
+  
+  width:100%;
+  
+  border-radius: 32px 32px 0 0 ;
+  
+
+  
+}
+
+
+.fotoDePerfil{
+    margin-top: -110px;
+    border-radius: 50%;
+    z-index: 1;
+
+    height: 152px;
+    width: 152px;
+}
+
+#acciones-info{
+    display: flex;
+
+}
+
+#datos-info{
+    display: flex;
+}
+#cabezal-datos{
+    
+}
+#info-lista{
+ 
+}
+#info-lista li{
+  
+
+}
+
+#info-lista img {
+    width:30px;
+    height:30px;
+}
+
+#acerca-de{
+    
+    
+}
+#acerca-de-text{
+    
+}
